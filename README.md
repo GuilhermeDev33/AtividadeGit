@@ -59,7 +59,7 @@
             <img src="img/colaborador.jpg" width="100px" heigth="100px">
         <th>
             <a href="">Nome do Colaborador (com o link do seu perfil)</a><
-         </th>
+        </th>
     <tr>
         <th>
             <img src="img/colaborador3.jpg" width="100px" heigth="100px">
