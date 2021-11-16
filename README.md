@@ -78,7 +78,7 @@
     <tr>
         <tr>
         <th>
-            <img src="https://www.instagram.com/p/B68Eak2lRr5/" width="100px" heigth="100px">
+            <img src="https://avatars.githubusercontent.com/u/76707091?v=4" width="100px" heigth="100px">
         </th>
         <th>
             <a href="https://github.com/rodrigol01">Rodrigo Leonardo da Silva</a>
