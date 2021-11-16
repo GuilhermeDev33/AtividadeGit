@@ -58,7 +58,7 @@
         <th>
             <img src="https://64.media.tumblr.com/7d71fef9ae1cf09be72b862bd12fd1a7/3aa1b9cefa90a3ca-bb/s500x750/61e316bc751ec16c8a79858ee98b1ef612141e2e.jpg" width="100px" heigth="100px">
         <th>
-            <a href="https://github.com/dantascarolin">Dantas</a><
+            <a href="https://github.com/dantascarolin">Dantas</a>
         </th>
     <tr>
         <th>
