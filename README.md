@@ -76,6 +76,14 @@
             <a href="https://github.com/doardin">Eduardo Lopes</a>
         </th>
     <tr>
+        <tr>
+        <th>
+            <img src="https://avatars.githubusercontent.com/u/76707091?v=4" width="100px" heigth="100px">
+        </th>
+        <th>
+            <a href="https://github.com/rodrigol01">Rodrigo Leonardo da Silva</a>
+        </th>
+    <tr>
 </table>
 <p>Basta informar uma imagem que vc queira que te represente, ou até a sua verdadeira mesmo! Apos isso informe o seu nome e dentro do href="Informe o link do seu perfil"</p>
 <ul>
