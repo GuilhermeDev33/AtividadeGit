@@ -56,9 +56,9 @@
     </th>
     <tr>
         <th>
-            <img src="img/colaborador.jpg" width="100px" heigth="100px">
+            <img src="https://64.media.tumblr.com/7d71fef9ae1cf09be72b862bd12fd1a7/3aa1b9cefa90a3ca-bb/s500x750/61e316bc751ec16c8a79858ee98b1ef612141e2e.jpg" width="100px" heigth="100px">
         <th>
-            <a href="">Nome do Colaborador (com o link do seu perfil)</a><
+            <a href="https://github.com/dantascarolin">Dantas</a><
         </th>
     <tr>
         <th>
@@ -76,7 +76,7 @@
             <a href="https://github.com/doardin">Eduardo Lopes</a>
         </th>
     <tr>
-        <tr>
+    <tr>
         <th>
             <img src="https://avatars.githubusercontent.com/u/76707091?v=4" width="100px" heigth="100px">
         </th>
